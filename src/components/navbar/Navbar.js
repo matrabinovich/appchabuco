@@ -1,6 +1,7 @@
 import React from 'react';
 import './Navbar.css'
 
+
 const Navbar = () => {
     return(
         <nav className= 'Navbar'>
@@ -11,6 +12,7 @@ const Navbar = () => {
                 <button>Categoria 3</button>
                 <button>Categoria 4</button>
             </div>
+            
         </nav>
     
     )
